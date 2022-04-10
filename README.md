@@ -47,6 +47,10 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 --- 
 
+### Demonstration Video 
+
+![Demonstration](Execution_Results/demonstration.gif)
+
 ### Submission
 
 * Upload the files for this assignment to your GitHub repository.
