@@ -8,19 +8,13 @@ A fintech startup company has recently hired you. This company is disrupting the
 
 To automate the creation of joint savings accounts, you’ll create a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. Your smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
 
-### What You're Creating
-
-* The completed Solidity `JointSavings` smart contract.
-
-* A folder named `Execution_Results` that contains at least eight images. These images should confirm that the deposit and withdrawal transactions, which are designed to test the `JointSavings` functionality in the JavaScript VM, worked as expected.
-
 ### Instructions
 
 1. Go to RemixIDE and create a new file.
 2. Name the file something.sol.
 3. Go to join_savings.sol and copy paste the code.
 4. Then Compile and Depoly.
-5. Then play around with deposits, withrda, account setting etc. 
+5. Then play around with deposits, withrdaw, account setting etc. 
 
 ---
 ### Results 
@@ -51,11 +45,6 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 ![Demonstration](Execution_Results/demonstration.gif)
 
-### Submission
-
-* Upload the files for this assignment to your GitHub repository.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
 
 ---
 
